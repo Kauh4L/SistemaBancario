@@ -118,7 +118,7 @@ Gerencia empréstimos bancários.
 
 ---
 
-### 🧾 Comprovante Pix
+### Comprovante Pix
 Registra comprovantes de transferências via PIX.
 
 - Valor transferido
@@ -156,4 +156,4 @@ Interesse em Banco de Dados, Dados e Sistemas
 
 ---
 
-📌 *Projeto com finalidade acadêmica.*
+ *Projeto com finalidade acadêmica.*
